@@ -23,3 +23,6 @@ Please note:
 - At the first run of the script, the script downloads resources from the net, so it will take some time to finish.
 - If your default python is not python 3 you may need to use pip3 and python3 in your commands.
 - The work is licensed under the MIT licence, for more details: https://github.com/LiorReznik/Mde-release-1/blob/master/LICENSE
+
+
+Vanetik, Natalia, Marina Litvak, Sergey Shevchuk, and Lior Reznik. "Automated Discovery of Mathematical Definitions in Text." In Proceedings of The 12th Language Resources and Evaluation Conference, pp. 2086-2094. 2020.
